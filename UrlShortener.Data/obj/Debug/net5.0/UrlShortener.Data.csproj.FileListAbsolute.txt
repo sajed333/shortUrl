@@ -1,0 +1,12 @@
+G:\project\url-shortener-tutorial\UrlShortener.Data\bin\Debug\net5.0\UrlShortener.Data.deps.json
+G:\project\url-shortener-tutorial\UrlShortener.Data\bin\Debug\net5.0\UrlShortener.Data.dll
+G:\project\url-shortener-tutorial\UrlShortener.Data\bin\Debug\net5.0\ref\UrlShortener.Data.dll
+G:\project\url-shortener-tutorial\UrlShortener.Data\bin\Debug\net5.0\UrlShortener.Data.pdb
+G:\project\url-shortener-tutorial\UrlShortener.Data\obj\Debug\net5.0\UrlShortener.Data.csproj.AssemblyReference.cache
+G:\project\url-shortener-tutorial\UrlShortener.Data\obj\Debug\net5.0\UrlShortener.Data.GeneratedMSBuildEditorConfig.editorconfig
+G:\project\url-shortener-tutorial\UrlShortener.Data\obj\Debug\net5.0\UrlShortener.Data.AssemblyInfoInputs.cache
+G:\project\url-shortener-tutorial\UrlShortener.Data\obj\Debug\net5.0\UrlShortener.Data.AssemblyInfo.cs
+G:\project\url-shortener-tutorial\UrlShortener.Data\obj\Debug\net5.0\UrlShortener.Data.csproj.CoreCompileInputs.cache
+G:\project\url-shortener-tutorial\UrlShortener.Data\obj\Debug\net5.0\UrlShortener.Data.dll
+G:\project\url-shortener-tutorial\UrlShortener.Data\obj\Debug\net5.0\ref\UrlShortener.Data.dll
+G:\project\url-shortener-tutorial\UrlShortener.Data\obj\Debug\net5.0\UrlShortener.Data.pdb
